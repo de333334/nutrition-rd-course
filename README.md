@@ -4,6 +4,7 @@
 - 第5讲：lesson5.html（维生素：脂溶四兄弟与水溶九姐妹）
 - 第6讲：lesson6.html（矿物质：钙、铁、锌、碘、硒）
 - 第7讲：lesson7.html（各类食物的营养价值：谷类/大豆/蔬果/动物性/奶类）
+- 第8讲：lesson8.html（膳食结构与膳食指南：膳食模式/指南2022八准则/平衡膳食宝塔/DRIs）
 - 课程总目录：index.html
 
 语音：Microsoft XiaoxiaoNeural；仅供学习。
